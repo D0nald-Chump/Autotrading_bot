@@ -1,0 +1,28 @@
+# 核心交易API
+alpaca-trade-api>=3.2.0
+
+# 时区处理
+pytz>=2023.3
+
+# 环境变量管理
+python-dotenv>=1.0.0
+
+# 任务调度（可选）
+schedule>=1.2.0
+
+# 数据处理（Alpaca API依赖）
+pandas>=1.5.0
+numpy>=1.24.0
+
+# HTTP请求（Alpaca API依赖）
+requests>=2.28.0
+websocket-client>=1.6.0
+websockets>=10.0
+
+# 异步HTTP（Alpaca API依赖）
+aiohttp>=3.8.0
+
+# 其他依赖
+PyYAML>=6.0
+msgpack>=1.0.0
+deprecation>=2.1.0 
