@@ -24,8 +24,8 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/yourusername/auto-trader.git
-cd auto-trader
+git clone https://github.com/D0nald-Chump/Autotrading_bot.git
+cd Autotrading_bot
 ```
 
 ### 2. 创建虚拟环境
@@ -197,7 +197,7 @@ python auto_trader.py --once
 
 如果您遇到问题或有建议，请：
 
-1. 查看现有的 [Issues](https://github.com/yourusername/auto-trader/issues)
+1. 查看现有的 [Issues](https://github.com/D0nald-Chump/Autotrading_bot/issues)
 2. 创建新的 Issue 详细描述问题
 3. 提供日志文件和配置信息（**请删除敏感信息**）
 
@@ -209,4 +209,4 @@ python auto_trader.py --once
 
 ---
 
-**免责声明**: 本软件仅用于教育和研究目的。使用本软件进行实际交易的风险由用户自行承担。作者不对任何损失承担责任。 
+**免责声明**: 本软件仅用于教育和研究目的。使用本软件进行实际交易的风险由用户自行承担。作者不对任何损失承担责任。
